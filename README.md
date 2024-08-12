@@ -1,0 +1,1 @@
+![Screenshot](app-design-intro.png)
